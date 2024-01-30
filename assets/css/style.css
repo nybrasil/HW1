@@ -31,7 +31,8 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+     
+/*I created a .h2 and changed h3s to h2s*/
 .h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -162,7 +163,7 @@ p {
     max-height: 200px;
 }
 
-
+/*I deleted the footer and the contents on it*/
 
 
 
